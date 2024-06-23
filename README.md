@@ -27,7 +27,7 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=Bjmf05&theme=react-dark"/>
 </div>
 
-<div id="user-content-toc">
+<div>
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
