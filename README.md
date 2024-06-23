@@ -4,9 +4,9 @@
 
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
 - 💳: My full name is Breiner Muñoz Fallas
-- 🏫: I'm currently student at National Unviersity of Costa Rica
+- 🏫: I'm currently student at National Unviersity of Costa Rica <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 - 📚: My major is **Systems Engineering**
 - 🧐: I'm interested in backend code and circuit development
   
