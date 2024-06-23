@@ -15,7 +15,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" width="50px" alt="Assembly" />
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cpp,css,idea,vscode," />    
-  </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50px" alt="MySQL" />
-
+  </a>
 </p>
