@@ -13,9 +13,11 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Some Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cpp,css,mysql,idea,vscode,docker,figma&theme=light)](https://skillicons.dev)" />    
+ <img src="https://skillicons.dev/icons?i=java,cpp,css,mysql,idea,vscode,docker,figma&theme=light" />
+  </a>
   </a>
 </p>
+
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bjmf05&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
