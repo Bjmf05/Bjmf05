@@ -26,8 +26,9 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Bjmf05&theme=algolia&background=0d1117&hide_border=true" />
   <img src="https://activity-graph.herokuapp.com/graph?username=Bjmf05&theme=react-dark"/>
 </div>
+prueba 
 
-<div>
+<div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
