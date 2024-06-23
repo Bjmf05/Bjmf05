@@ -24,9 +24,10 @@
 </div>
 <div>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Bjmf05&theme=algolia&background=0d1117&hide_border=true" />
+  prueba 
   <img src="https://activity-graph.herokuapp.com/graph?username=Bjmf05&theme=react-dark"/>
 </div>
-prueba 
+
 
 <div id="user-content-toc">
   <ul align="center">
