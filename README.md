@@ -23,8 +23,9 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bjmf05&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
 </div>
 <div>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Bjmf05&theme=algolia&background=0d1117&hide_border=true" />
-  prueba 
+  
+
+
   <img src="https://activity-graph.herokuapp.com/graph?username=Bjmf05&theme=react-dark"/>
 </div>
 
