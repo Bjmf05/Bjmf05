@@ -20,7 +20,13 @@
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 
+<div>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bjmf05&layout=compact&show_icon=true&theme=algolia" alt="tienhuynh-tn-langs"/>
+</div>
+<div>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Bjmf05&theme=algolia&background=0d1117&hide_border=true" />
 
+</div>
 
 <div id="user-content-toc">
   <ul align="center">
